@@ -1,0 +1,3 @@
+#
+# trace2.txt - Test running the shell with no input.
+#

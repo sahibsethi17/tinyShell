@@ -1,0 +1,6 @@
+#
+# traceX.txt - Description of the test case
+#
+
+/bin/echo -e tsh\076 blah1 \074 in.txt \| blah2
+./blah1 < in.txt | ./blah2 > test4.txt
